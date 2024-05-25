@@ -22,7 +22,7 @@ export default function  error () {
               <Link to="/Service" className="nav-item nav-link">Services</Link>
               <Link to="/Project" className="nav-item nav-link">Case Study</Link>
             <div className="nav-item dropdown">
-              <a href="#" className="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Pages</a>
+              <a href="/" className="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Pages</a>
               <div className="dropdown-menu bg-light mt-2">
                 <Link to="/Feature" className="nav-item nav-link">Features</Link>
                 <Link to="*" className="dropdown-item active">404 Page</Link>
