@@ -166,7 +166,7 @@ export default function Service() {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-1.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='analyticsware' src="img/testimonial-1.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>
@@ -177,7 +177,7 @@ export default function Service() {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-2.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='analyticsware' src="img/testimonial-2.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>
@@ -188,7 +188,7 @@ export default function Service() {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-3.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='analyticsware' src="img/testimonial-3.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>

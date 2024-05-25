@@ -67,7 +67,7 @@ export default function Home () {
         <div className="row g-5 align-items-center">
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div className="about-img">
-              <img className="img-fluid" src="img/about-img.jpg" alt='image'/>
+              <img className="img-fluid" src="img/about-img.jpg" alt='analyticsware'/>
             </div>
           </div>
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -250,7 +250,7 @@ export default function Home () {
               </div>
             </div>
             <div className="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-              <img className="img-fluid" src="img/feature.png"  alt='image'/>
+              <img className="img-fluid" src="img/feature.png"  alt='analyticsware'/>
             </div>
           </div>
         </div>
@@ -271,7 +271,7 @@ export default function Home () {
               <div className="row g-4">
                 <div className="col-12 wow fadeIn" data-wow-delay="0.1s">
                   <div className="team-item bg-white text-center rounded p-4 pt-0">
-                    <img className="img-fluid rounded-circle p-4" src="img/team-1.jpg" alt='image' />
+                    <img className="img-fluid rounded-circle p-4" src="img/team-1.jpg" alt='analyticsware' />
                     <h5 className="mb-0">Bhavik Mehta</h5>
                     <small>Founder &amp; CEO</small>
                     <div className="d-flex justify-content-center mt-3">
@@ -304,7 +304,7 @@ export default function Home () {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-1.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='analyticsware' src="img/testimonial-1.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>
@@ -315,7 +315,7 @@ export default function Home () {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-2.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='analyticsware' src="img/testimonial-2.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>
@@ -326,7 +326,7 @@ export default function Home () {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-3.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='analyticsware' src="img/testimonial-3.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>

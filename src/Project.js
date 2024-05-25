@@ -69,7 +69,7 @@ export default function Project(){
         <div className="row g-4">
           <div className="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
             <div className="case-item position-relative overflow-hidden rounded mb-2">
-              <img className="img-fluid" src="img/project-1.jpg" alt='image' />
+              <img className="img-fluid" src="img/project-1.jpg" alt='analyticsware' />
               <a className="case-overlay text-decoration-none" href="fundraising-donor-score-optimal-ask.pdf">
                 <h4 className="lh-base text-white mb-3">Donor Score and Optimal Ask</h4>
                 <p className="lh-base text-white mb-3">
@@ -80,7 +80,7 @@ export default function Project(){
           </div>
           <div className="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
             <div className="case-item position-relative overflow-hidden rounded mb-2">
-              <img className="img-fluid" src="img/project-2.jpg" alt='image' />
+              <img className="img-fluid" src="img/project-2.jpg" alt='analyticsware' />
               <a className="case-overlay text-decoration-none" href="credit-risk-modeling.pdf">
                 <h4 className="lh-base text-white mb-3">Credit Risk Model</h4>
                 <p className="lh-base text-white mb-3">Credit risk modeling refers to the use of financial models to estimate losses a firm might suffer in the event of a borrower’s default. This model helps to evaluate credit score of each borrower based on their demographics, past accounting variables and third-party data such as Vantage score and Fico score. . .</p>                       <span className="btn btn-square btn-primary"><i className="fa fa-arrow-right" /></span>
@@ -89,7 +89,7 @@ export default function Project(){
           </div>
           <div className="col-lg-4 wow fadeIn" data-wow-delay="0.7s">
             <div className="case-item position-relative overflow-hidden rounded mb-2">
-              <img className="img-fluid" src="img/project-3.jpg"  alt='image'/>
+              <img className="img-fluid" src="img/project-3.jpg"  alt='analyticsware'/>
               <a className="case-overlay text-decoration-none" href="propensity-pay-debt-management.pdf">
                 <h4 className="lh-base text-white mb-3">Propensity to Pay</h4>
                 <p className="lh-base text-white mb-3">In today’s world where there is economic uncertainty for every human being, it’s quite necessary to understand the financial condition of an individual and have a proper debt management program in order to avoid huge write-off amount and reduce number of defaulters. It becomes necessary to identify and divide…</p>

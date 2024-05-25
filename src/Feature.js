@@ -119,7 +119,7 @@ export default function Feature(){
             </div>
           </div>
           <div className="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-            <img className="img-fluid" src="img/feature.png" alt='image' />
+            <img className="img-fluid" src="img/feature.png" alt='analyticsware' />
           </div>
         </div>
       </div>
