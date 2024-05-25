@@ -65,7 +65,6 @@ export default function Feature(){
         <div className="row g-5">
           <div className="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
             <div className="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div>
-            <h1 className="text-white mb-4" />
             <p className="text-light mb-4">Choosing us means benefiting from our unparalleled domain expertise, which ensures that we understand the unique challenges and opportunities within your industry. Our services are designed with scalability in mind, allowing us to grow alongside your business without compromising on performance or quality.</p>
             <div className="d-flex align-items-center text-white mb-3">
               <div className="btn-sm-square bg-white text-primary rounded-circle me-3">
@@ -120,7 +119,7 @@ export default function Feature(){
             </div>
           </div>
           <div className="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-            <img className="img-fluid" src="img/feature.png"  />
+            <img className="img-fluid" src="img/feature.png" alt='image' />
           </div>
         </div>
       </div>

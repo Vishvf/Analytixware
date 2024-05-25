@@ -67,7 +67,7 @@ export default function Home () {
         <div className="row g-5 align-items-center">
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
             <div className="about-img">
-              <img className="img-fluid" src="img/about-img.jpg" />
+              <img className="img-fluid" src="img/about-img.jpg" alt='image'/>
             </div>
           </div>
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -86,10 +86,12 @@ export default function Home () {
               </div>
             </div>
             <div className="d-flex align-items-center mt-4">
-              <a className="btn btn-outline-primary btn-square me-3" href="#"><i className="fab fa-facebook-f" /></a>
-              <a className="btn btn-outline-primary btn-square me-3" href="#"><i className="fab fa-twitter" /></a>
-              <a className="btn btn-outline-primary btn-square me-3" href="#"><i className="fab fa-instagram" /></a>
-              <a className="btn btn-outline-primary btn-square" href="#"><i className="fab fa-linkedin-in" /></a>
+            <a className="btn btn-outline-primary btn-square me-3" href="https://www.facebook.com/bhavik.mehta312?mibextid=kFxxJD
+"><i className="fab fa-facebook-f" /></a>
+                      <a className="btn btn-square btn-primary m-1" href="mailto:analytixware.in@gmail.com"><i className="fas fa-envelope" /></a>
+
+            <a className="btn btn-outline-primary btn-square" href="https://www.linkedin.com/in/bhavik-mehta312/
+"><i className="fab fa-linkedin-in" /></a>
             </div>
           </div>
         </div>
@@ -248,7 +250,7 @@ export default function Home () {
               </div>
             </div>
             <div className="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-              <img className="img-fluid" src="img/feature.png"  />
+              <img className="img-fluid" src="img/feature.png"  alt='image'/>
             </div>
           </div>
         </div>
@@ -269,7 +271,7 @@ export default function Home () {
               <div className="row g-4">
                 <div className="col-12 wow fadeIn" data-wow-delay="0.1s">
                   <div className="team-item bg-white text-center rounded p-4 pt-0">
-                    <img className="img-fluid rounded-circle p-4" src="img/team-1.jpg"  />
+                    <img className="img-fluid rounded-circle p-4" src="img/team-1.jpg" alt='image' />
                     <h5 className="mb-0">Bhavik Mehta</h5>
                     <small>Founder &amp; CEO</small>
                     <div className="d-flex justify-content-center mt-3">
@@ -302,7 +304,7 @@ export default function Home () {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-1.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>
@@ -313,7 +315,7 @@ export default function Home () {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-2.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>
@@ -324,7 +326,7 @@ export default function Home () {
                   <i className="fa fa-quote-left fa-2x text-primary mb-3" />
                   <p className="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
                   <div className="d-flex align-items-center">
-                    <img className="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" style={{"width":"60px","height":"60px"}} />
+                    <img className="img-fluid flex-shrink-0 rounded-circle" alt='image' src="img/testimonial-3.jpg" style={{"width":"60px","height":"60px"}} />
                     <div className="ps-3">
                       <h5 className="mb-1">Client Name</h5>
                       <span>Profession</span>
