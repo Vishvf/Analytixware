@@ -45,7 +45,7 @@ export default function  error () {
           <nav aria-label="breadcrumb">
             <ol className="breadcrumb justify-content-center justify-content-lg-start mb-0">
               <li className="breadcrumb-item"><Link className="text-white" to="/">Home</Link></li>
-              <li className="breadcrumb-item"><Link className="text-white" href="#">Pages</Link></li>
+              <li className="breadcrumb-item"><Link className="text-white" to="/">Pages</Link></li>
               <li className="breadcrumb-item text-white active" aria-current="page">404 Error</li>
             </ol>
           </nav>
@@ -80,7 +80,7 @@ export default function  error () {
           <h1 className="display-1">404</h1>
           <h1 className="mb-4">Page Not Found</h1>
           <p className="mb-4">We’re sorry, the page you have looked for does not exist in our website! Maybe go to our home page or try to use a search?</p>
-          <a className="btn btn-primary rounded-pill py-3 px-5" href>Go Back To Home</a>
+          <Link className="btn btn-primary rounded-pill py-3 px-5" to="/">Go Back To Home</Link>
         </div>
       </div>
     </div>
